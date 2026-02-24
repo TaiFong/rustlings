@@ -60,7 +60,7 @@ solutions/           # My completed solutions
 	
 - [x] variables
     
-- [ ] functions
+- [x] functions
     
 - [ ] if
     
