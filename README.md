@@ -62,7 +62,7 @@ solutions/           # My completed solutions
     
 - [x] functions
     
-- [ ] if
+- [x] if
     
 - [ ] primitive_types
     
