@@ -11,9 +11,23 @@
 // TODO: Write a function that calculates the price of an order of apples given
 // the quantity bought.
 // fn calculate_price_of_apples(???) -> ??? { ??? }
-
+//use super::*;
 fn main() {
     // You can optionally experiment here.
+
+    calculate_price_of_apples(35);
+    calculate_price_of_apples(40);
+    calculate_price_of_apples(41);
+    
+}
+
+fn calculate_price_of_apples(apples: i32) -> i32 {
+ 
+    if apples <= 40 {
+        apples * 2
+    } else {
+        apples
+    }
 }
 
 // Don't change the tests!
