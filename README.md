@@ -64,7 +64,7 @@ solutions/           # My completed solutions
     
 - [x] if
     
-- [ ] primitive_types
+- [x] primitive_types
     
 - [ ] vecs
     
